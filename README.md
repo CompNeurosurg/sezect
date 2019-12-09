@@ -1,12 +1,3 @@
-# Chaquopy console app
-
-This is an example of an interactive Python console script running in an Android app using
-[Chaquopy](https://chaquo.com/chaquopy/). Some starting points:
-
-* The example Python script is in 
-  [`app/src/main/python/main.py`](https://github.com/chaquo/chaquopy-console/blob/master/app/src/main/python/main.py).
-  You can replace this with your own code.
-* The Android activity which hosts it is in 
-  [`app/src/main/java/com/chaquo/python/console/MainActivity.java`](https://github.com/chaquo/chaquopy-console/blob/master/app/src/main/java/com/chaquo/python/console/MainActivity.java).
-* The Chaquopy configuration (Python version, pip requirements list, etc.) is in 
-  [`app/build.gradle`](https://github.com/chaquo/chaquopy-console/blob/master/app/build.gradle).
+This is a part of PhD thesis titled "Automated detection of epileptic seizures for remote monitoring using optimal
+cross-database classification model" to obtain the degree of Doctor at Maasstricht University.
+The proof of concept (POC) for epileptic seizure detection in long term EEG signal is tested on Android platform using Chaquopy plugin. The screenshots of sezect Android app results are shown in Fig \ref{fig:Android_sezect} and video of running app is available at http://bit.ly/2LAbZ5W.
